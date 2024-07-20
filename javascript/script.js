@@ -39,6 +39,7 @@ function updateCity(event) {
     "A"
   )}</small></div>
   </div>
+  <p><a href="https://world-clock-bello.netlify.app/"> All Cities</p></a>
   `;
 };
 
